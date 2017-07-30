@@ -21,7 +21,7 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logonew-128x39-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dulogo-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 4,
