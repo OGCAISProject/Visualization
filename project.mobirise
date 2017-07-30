@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logonew-128x39-1.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -70,11 +70,114 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Visualization",
           "text": "We have developed a desktop client that enables visual and analytical tasks, as related to these mass migration data support needs. It will be user-friendly, yet capable of handling complex analyses and rendering of large datasets (e.g., big data). The client includes three major modules: data management, visualization module, and analytical module. All modules can be implemented in an extensible modular fashion so that existing development efforts can be integrated.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#gallery3-3\" data-toolbar=\"-mbrBtnMove\">View Demonstration</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x942-800x376.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x942.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x939-800x375.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x939.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x938-800x375.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x938.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x937-800x374.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x937.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x936-800x374.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x936.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-1-800x376-800x376.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-1-800x376.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-800x376-800x376.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-800x376.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x940-800x376.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-30-at-3-2000x940.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_inherit": "msg-box5",
