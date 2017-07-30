@@ -111,7 +111,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/DTB5C1cwU58",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -159,7 +159,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ogcaisproject.github.io/\" data-toolbar=\"-mbrBtnMove\">Retunr Home</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ogcaisproject.github.io/\" data-toolbar=\"-mbrBtnMove\">Homepage</a>"
         }
       ]
     }
