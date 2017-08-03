@@ -416,8 +416,16 @@ h6,
   text-align: left;
   color: #ffffff;
 }
+#msg-box3-5 .mbr-section-title,
+#msg-box3-5 p {
+  color: #000;
+}
 #features3-4 P {
   text-align: left;
+}
+#msg-box3-6 .mbr-section-title,
+#msg-box3-6 p {
+  color: #000;
 }
 #msg-box3-2 .mbr-section-title,
 #msg-box3-2 p {
