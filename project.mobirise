@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/dulogo-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -116,12 +116,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "features3-4",
+          "_anchor": "features3-8",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -158,7 +153,7 @@
           },
           "title1": "Visualize Web Service",
           "subtitle1": "WMS &amp; WFS Features Visualization",
-          "caption1": "A service layer may be loaded for visualization, with optional time parameters available as filters. The tool will auto adjust itself and zoom in to focus on the area of interest. If time attributes are specified, the output animation will only display data for the time range selected. \n\n",
+          "caption1": "A web service layer may be loaded for visualization, with optional time parameters available as filters. The tool will auto adjust itself and zoom in to focus on the area of interest. If time attributes are specified, the output animation will only display data for the time range selected.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -174,23 +169,19 @@
           },
           "title2": "Visualize Analytical Results",
           "subtitle2": "Vertical Profiling and Time-Series",
-          "caption2": "The vertical profiling option allows users to generate a vertical profile graph from the selected attributes. This helps the user engage in visual analytics with the summarized data. The time series option allows users to track the movements of ships based on time attributes\n<br><br>",
+          "caption2": "The vertical profiling option allows users to generate a vertical profile graph from the selected attributes. This helps the user engage in visual analytics with the summarized data. The time series option allows users to track the movements of ships based on time attributes.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202017-08-03%20at%205-600x315.png",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title3": "Web Feature Service",
-          "subtitle3": "",
-          "caption3": "The WFS service contains Automatic Identification System (AIS) data from vessel traffic records. Prominent attributes about the ships and voyages include (among others) including Voyage ID, navigational status, speed over ground and etc.The AIS records are original in point format, though density outputs for routes created from the location points is also possible .",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -227,7 +218,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
